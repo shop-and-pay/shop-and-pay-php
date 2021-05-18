@@ -1,0 +1,25 @@
+{
+    "name": "shopandpay/shopandpay",
+    "type": "library",
+    "description": "ShopAndPay PHPLib",
+    "keywords": [
+        "payment",
+        "gateway"
+    ],
+    "license": "MIT",
+    "homepage": "https://www.shop-and-pay.com",
+    "authors": [
+        {
+            "name": "ShopAndPay",
+            "homepage": "https://www.shop-and-pay.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ShopAndPay": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
